@@ -67,3 +67,6 @@ The pipeline is designed to:
 
 
 ## Architecture
+
+![image](https://github.com/user-attachments/assets/2ee65e9e-3576-4782-abe7-093f944cd844)
+
