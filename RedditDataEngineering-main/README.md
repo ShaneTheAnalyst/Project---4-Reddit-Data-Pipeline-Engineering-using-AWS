@@ -67,4 +67,3 @@ The pipeline is designed to:
 
 
 ## Architecture
-[![Reddit Data Engineering](https://img.youtube.com/vi/LSlt6iVI_9Y/0.jpg)]
